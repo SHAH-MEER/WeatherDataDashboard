@@ -1,7 +1,5 @@
 import streamlit as st
 import plotly.express as px
-from altair import condition
-
 from backend import get_data
 
 
