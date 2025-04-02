@@ -60,7 +60,7 @@ Ensure you have Python installed on your system. You also need to install the re
 ## File Structure 📂📁📜
 
 ```
-weather-dashboard/
+WeatherDataDashboard
 │── main.py              # Main Streamlit app
 │── backend.py           # Backend script for fetching weather data
 │── requirements.txt     # Dependencies
